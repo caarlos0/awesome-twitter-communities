@@ -3,10 +3,12 @@
 A list of awesome twitter communities.
 
 - [AstroTwitter](https://twitter.com/i/communities/1433240493408722945)
+- [AWS](https://twitter.com/i/communities/1471503983839567878)
 - [Azure](https://twitter.com/i/communities/1443318189031559173)
 - [Design Systems](https://twitter.com/i/communities/1440734625513439237)
 - [DogTwitter](https://twitter.com/i/communities/1432860025005826048)
 - [Formula 1](https://twitter.com/i/communities/1442988929070731268)
+- [Infrastructure as Code](https://twitter.com/i/communities/1472161952264863751)
 - [Kubernetes](https://twitter.com/i/communities/1444745802383953921)
 - [NFT](https://twitter.com/i/communities/1435307090197684225)
 - [Notion](https://twitter.com/i/communities/1453875227058974754)
