@@ -21,6 +21,7 @@ A list of awesome twitter communities.
 - [NFT](https://twitter.com/i/communities/1435307090197684225)
 - [Notion](https://twitter.com/i/communities/1453875227058974754)
 - [Nuxt](https://twitter.com/i/communities/1498235047194808320)
+- [Open data](https://twitter.com/i/communities/1498662373930024965)
 - [Tech Twitter](https://twitter.com/i/communities/1472105760389668865)
 - [Twitter Spaces](https://twitter.com/i/communities/1443304499981045775)
 - [WebRTC](https://twitter.com/i/communities/1498133315164860419)
