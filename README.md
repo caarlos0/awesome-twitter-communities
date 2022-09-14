@@ -7,6 +7,7 @@ A list of awesome twitter communities.
 - [Azure](https://twitter.com/i/communities/1443318189031559173)
 - [Clojure](https://twitter.com/i/communities/1494013093059432451)
 - [Design Systems](https://twitter.com/i/communities/1440734625513439237)
+- [Design Twitter](https://twitter.com/i/communities/1453877367030484992)
 - [Dev Front-End 👩‍💻🧑‍💻🇫🇷](https://twitter.com/i/communities/1496753406559596545)
 - [DogTwitter](https://twitter.com/i/communities/1432860025005826048)
 - [DotNet](https://twitter.com/i/communities/1488624124817666051)
