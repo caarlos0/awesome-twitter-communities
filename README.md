@@ -26,6 +26,7 @@ A list of awesome twitter communities.
 - [Open data](https://twitter.com/i/communities/1498662373930024965)
 - [Tech Twitter](https://twitter.com/i/communities/1472105760389668865)
 - [Twitter Spaces](https://twitter.com/i/communities/1443304499981045775)
+- [WASM](https://twitter.com/i/communities/1497545442023944192)
 - [WebRTC](https://twitter.com/i/communities/1498133315164860419)
 - [Xbox](https://twitter.com/i/communities/1455305732912418820)
 
@@ -36,7 +37,7 @@ A list of awesome twitter communities.
 - [Numérique responsable](https://twitter.com/i/communities/1492834365876936704)
 - [Souveraineté numérique](https://twitter.com/i/communities/1492137441607753728)
 
-<!-- 
+<!--
 URL to search for communities
 
 https://twitter.com/search?q=url%3Atwitter.com%2Fi%2Fcommunities
