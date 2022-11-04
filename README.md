@@ -24,6 +24,7 @@ A list of awesome twitter communities.
 - [Notion](https://twitter.com/i/communities/1453875227058974754)
 - [Nuxt](https://twitter.com/i/communities/1498235047194808320)
 - [Open data](https://twitter.com/i/communities/1498662373930024965)
+- [Tech Jobs Twitter](https://twitter.com/i/communities/1471550472196530176)
 - [Tech Twitter](https://twitter.com/i/communities/1472105760389668865)
 - [Twitter Spaces](https://twitter.com/i/communities/1443304499981045775)
 - [WASM](https://twitter.com/i/communities/1497545442023944192)
