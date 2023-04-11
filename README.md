@@ -2,7 +2,7 @@
 
 A list of awesome twitter communities.
 
-## English 🇬🇧
+## English 🇺🇸🇬🇧
 
 - [AWS](https://twitter.com/i/communities/1471503983839567878)
 - [AstroTwitter](https://twitter.com/i/communities/1433240493408722945)
