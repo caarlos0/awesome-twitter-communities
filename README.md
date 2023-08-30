@@ -37,6 +37,7 @@ A list of awesome twitter communities.
 - [DevOps](https://twitter.com/i/communities/1564613138464612354)
 - [Numérique responsable](https://twitter.com/i/communities/1492834365876936704)
 - [Souveraineté numérique](https://twitter.com/i/communities/1492137441607753728)
+- [WordPress Afrique Francophone](https://twitter.com/i/communities/1518352832826679296)
 
 <!--
 URL to search for communities
